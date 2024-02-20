@@ -5,5 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ["**/*.JPG"],
-  base: "https://marioa96.github.io/07-heroes-spa/",
 })
